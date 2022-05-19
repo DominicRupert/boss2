@@ -1,0 +1,7 @@
+body{
+    height: 100vh !important;
+    flex-grow: 1;
+    background-image: url(https://cdn.gamedevmarket.net/wp-content/uploads/20191203193538/8b741662764b0e71bf113859b6fe2ee84ee6d14f.jpg);
+    background-size: cover;
+}
+
